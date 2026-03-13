@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ChandruS1
-- 👀 I’m interested in ... Web Devlopment, AI
-- 🌱 I’m currently learning ... ReactJS
-- 💞️ I’m looking to collaborate on ... Team Projects
-- 📫 How to reach me ... chandru917231@gmail.com
-
-<!---
-ChandruS1/ChandruS1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Chandru
+🚀 DevOps Enthusiast 
+------------------------------------------------------------------------------------
+👨‍💻 About Me
+- 🔭 Currently learning DevOps tools and cloud infrastructure
+- 📊 Experienced with Monitoring & Observability using Grafana, Prometheus and Loki
+- ⚙️ Interested in System Architecture, Automation, and Backend Infrastructure
+- 📚 Exploring CI/CD pipelines and cloud-native development
